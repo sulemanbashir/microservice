@@ -54,3 +54,12 @@ summary-service/.settings/org.eclipse.jdt.core.prefs
 summary-service/.settings/org.eclipse.m2e.core.prefs
 summary-service/.settings/org.eclipse.wst.common.project.facet.core.xml
 summary-service/target/classes/META-INF/maven/com.ecommerce.service/summary-service/pom.properties
+cloud-config-server/target/classes/com/ecommerce/service/cloud/CloudConfigServerApplication.class
+cloud-config-server/target/classes/META-INF/maven/com.ecommerce.service/cloud-config-server/pom.properties
+inventory-service/target/classes/com/ecommerce/service/inventory/InventoryServiceApplication.class
+inventory-service/target/classes/META-INF/maven/com.ecommerce.service/inventory-service/pom.properties
+service-registry/target/classes/com/ecommerce/service/service/registry/ServiceRegistryApplication.class
+service-registry/target/classes/META-INF/maven/com.ecommerce.service/service-registry/pom.properties
+summary-service/target/classes/META-INF/maven/com.ecommerce.service/summary-service/pom.properties
+account-service/target/classes/META-INF/maven/com.ecommerce.service/account-service/pom.properties
+client-service/target/classes/META-INF/maven/com.ecommerce.service/client-service/pom.properties
