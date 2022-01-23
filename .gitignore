@@ -63,3 +63,6 @@ service-registry/target/classes/META-INF/maven/com.ecommerce.service/service-reg
 summary-service/target/classes/META-INF/maven/com.ecommerce.service/summary-service/pom.properties
 account-service/target/classes/META-INF/maven/com.ecommerce.service/account-service/pom.properties
 client-service/target/classes/META-INF/maven/com.ecommerce.service/client-service/pom.properties
+account-service/target/classes/META-INF/maven/com.ecommerce.service/account-service/pom.properties
+*.properties
+*.class
