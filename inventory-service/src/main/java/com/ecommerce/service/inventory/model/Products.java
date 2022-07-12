@@ -1,5 +1,6 @@
 package com.ecommerce.service.inventory.model;
 
+import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
 import javax.persistence.Column;
@@ -27,6 +28,9 @@ public class Products extends BaseEntity {
 	
 	@Column(name = "quantity")
 	private int quantity;
+	
+	@Column(name = "price")
+	private BigDecimal productPrice;
 
 	
 }
