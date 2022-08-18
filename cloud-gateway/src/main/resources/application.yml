@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cloud-gateway
+  bus:
+    enabled: true
+  config:
+    import: "optional:configserver:http://localhost:9296"
